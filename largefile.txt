@@ -1,4 +1,0 @@
-This is a test line.
-An ERROR occurred while processing the request.
-Another line of text.
-Critical ERROR found in the system.

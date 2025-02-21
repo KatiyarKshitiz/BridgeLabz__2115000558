@@ -1,3 +1,0 @@
-Name: Kshitiz
-Age: 22
-Language: Java
